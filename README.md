@@ -18,3 +18,4 @@ Este projeto não usa dados reais, todos os dados usados são 100% fictícios.
 
 
 
+Eu fiz isso aqui mais pra salvar o código, pois não pretendo usar no futuro
